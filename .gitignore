@@ -1,5 +1,10 @@
 ###FOLDERS
 Mnist/
+data
+#Files
+checkpoint.pt
+ddos.py
+source.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
